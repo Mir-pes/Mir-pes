@@ -1,4 +1,4 @@
-## Hi there👋, I'm Abbas!
+## Hi there,I'm Abbas!
 
 
 - 🔭 Hey,I’m a full-stack developer and an Aspiring Data Analyst, also have an enthusiastic interest in AI/ML Domain.
